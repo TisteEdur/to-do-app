@@ -229,6 +229,12 @@ a {
     }
 }
 
+@media screen and (max-width: 420px) {
+    .wrapper {
+        height: 80vh;
+    }
+}
+
 
 /* Scrollbar Styling */
 ::-webkit-scrollbar {
