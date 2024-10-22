@@ -71,6 +71,8 @@ a {
         & #todo {
             padding: .5em 1em;
             width: clamp(150px, 100%, 250px);
+            font-size: 1rem !important;
+            line-height: 1rem;
             color: #fff;
             background-color: #8684ff;
             border: none;
